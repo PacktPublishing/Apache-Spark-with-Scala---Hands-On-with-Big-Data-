@@ -1,0 +1,406 @@
+[debug] Packaging C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\sparkscalacourse_2.12-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	com
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com
+[debug] 	com\sundogsoftware
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware
+[debug] 	com\sundogsoftware\spark
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark
+[debug] 	com\sundogsoftware\spark\DataFrames$$typecreator5$1.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\DataFrames$$typecreator5$1.class
+[debug] 	com\sundogsoftware\spark\DataFrames$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\DataFrames$.class
+[debug] 	com\sundogsoftware\spark\DataFrames$Person$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\DataFrames$Person$.class
+[debug] 	com\sundogsoftware\spark\DataFrames$Person.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\DataFrames$Person.class
+[debug] 	com\sundogsoftware\spark\DataFrames.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\DataFrames.class
+[debug] 	com\sundogsoftware\spark\DataFramesDataset$$typecreator4$1.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\DataFramesDataset$$typecreator4$1.class
+[debug] 	com\sundogsoftware\spark\DataFramesDataset$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\DataFramesDataset$.class
+[debug] 	com\sundogsoftware\spark\DataFramesDataset$Person$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\DataFramesDataset$Person$.class
+[debug] 	com\sundogsoftware\spark\DataFramesDataset$Person.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\DataFramesDataset$Person.class
+[debug] 	com\sundogsoftware\spark\DataFramesDataset.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\DataFramesDataset.class
+[debug] 	com\sundogsoftware\spark\DegreesOfSeparation$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\DegreesOfSeparation$.class
+[debug] 	com\sundogsoftware\spark\DegreesOfSeparation.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\DegreesOfSeparation.class
+[debug] 	com\sundogsoftware\spark\DegreesOfSeparationDataset$$typecreator4$1.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\DegreesOfSeparationDataset$$typecreator4$1.class
+[debug] 	com\sundogsoftware\spark\DegreesOfSeparationDataset$$typecreator4$2.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\DegreesOfSeparationDataset$$typecreator4$2.class
+[debug] 	com\sundogsoftware\spark\DegreesOfSeparationDataset$$typecreator5$1.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\DegreesOfSeparationDataset$$typecreator5$1.class
+[debug] 	com\sundogsoftware\spark\DegreesOfSeparationDataset$$typecreator5$2.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\DegreesOfSeparationDataset$$typecreator5$2.class
+[debug] 	com\sundogsoftware\spark\DegreesOfSeparationDataset$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\DegreesOfSeparationDataset$.class
+[debug] 	com\sundogsoftware\spark\DegreesOfSeparationDataset$BFSNode$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\DegreesOfSeparationDataset$BFSNode$.class
+[debug] 	com\sundogsoftware\spark\DegreesOfSeparationDataset$BFSNode.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\DegreesOfSeparationDataset$BFSNode.class
+[debug] 	com\sundogsoftware\spark\DegreesOfSeparationDataset$SuperHero$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\DegreesOfSeparationDataset$SuperHero$.class
+[debug] 	com\sundogsoftware\spark\DegreesOfSeparationDataset$SuperHero.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\DegreesOfSeparationDataset$SuperHero.class
+[debug] 	com\sundogsoftware\spark\DegreesOfSeparationDataset.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\DegreesOfSeparationDataset.class
+[debug] 	com\sundogsoftware\spark\FriendsByAge$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\FriendsByAge$.class
+[debug] 	com\sundogsoftware\spark\FriendsByAge.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\FriendsByAge.class
+[debug] 	com\sundogsoftware\spark\FriendsByAgeDataset$$typecreator4$1.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\FriendsByAgeDataset$$typecreator4$1.class
+[debug] 	com\sundogsoftware\spark\FriendsByAgeDataset$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\FriendsByAgeDataset$.class
+[debug] 	com\sundogsoftware\spark\FriendsByAgeDataset$FakeFriends$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\FriendsByAgeDataset$FakeFriends$.class
+[debug] 	com\sundogsoftware\spark\FriendsByAgeDataset$FakeFriends.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\FriendsByAgeDataset$FakeFriends.class
+[debug] 	com\sundogsoftware\spark\FriendsByAgeDataset.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\FriendsByAgeDataset.class
+[debug] 	com\sundogsoftware\spark\GraphX$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\GraphX$.class
+[debug] 	com\sundogsoftware\spark\GraphX.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\GraphX.class
+[debug] 	com\sundogsoftware\spark\HelloWorld$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\HelloWorld$.class
+[debug] 	com\sundogsoftware\spark\HelloWorld.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\HelloWorld.class
+[debug] 	com\sundogsoftware\spark\LearningScala1.sc
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\LearningScala1.sc
+[debug] 	com\sundogsoftware\spark\LearningScala2.sc
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\LearningScala2.sc
+[debug] 	com\sundogsoftware\spark\LearningScala3.sc
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\LearningScala3.sc
+[debug] 	com\sundogsoftware\spark\LearningScala4.sc
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\LearningScala4.sc
+[debug] 	com\sundogsoftware\spark\LinearRegressionDataFrame$$typecreator5$1.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\LinearRegressionDataFrame$$typecreator5$1.class
+[debug] 	com\sundogsoftware\spark\LinearRegressionDataFrame$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\LinearRegressionDataFrame$.class
+[debug] 	com\sundogsoftware\spark\LinearRegressionDataFrame.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\LinearRegressionDataFrame.class
+[debug] 	com\sundogsoftware\spark\LinearRegressionDataFrameDataset$$typecreator4$1.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\LinearRegressionDataFrameDataset$$typecreator4$1.class
+[debug] 	com\sundogsoftware\spark\LinearRegressionDataFrameDataset$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\LinearRegressionDataFrameDataset$.class
+[debug] 	com\sundogsoftware\spark\LinearRegressionDataFrameDataset$RegressionSchema$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\LinearRegressionDataFrameDataset$RegressionSchema$.class
+[debug] 	com\sundogsoftware\spark\LinearRegressionDataFrameDataset$RegressionSchema.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\LinearRegressionDataFrameDataset$RegressionSchema.class
+[debug] 	com\sundogsoftware\spark\LinearRegressionDataFrameDataset.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\LinearRegressionDataFrameDataset.class
+[debug] 	com\sundogsoftware\spark\MaxTemperatures$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MaxTemperatures$.class
+[debug] 	com\sundogsoftware\spark\MaxTemperatures.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MaxTemperatures.class
+[debug] 	com\sundogsoftware\spark\MinTemperatures$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MinTemperatures$.class
+[debug] 	com\sundogsoftware\spark\MinTemperatures.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MinTemperatures.class
+[debug] 	com\sundogsoftware\spark\MinTemperaturesDataset$$typecreator4$1.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MinTemperaturesDataset$$typecreator4$1.class
+[debug] 	com\sundogsoftware\spark\MinTemperaturesDataset$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MinTemperaturesDataset$.class
+[debug] 	com\sundogsoftware\spark\MinTemperaturesDataset$Temperature$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MinTemperaturesDataset$Temperature$.class
+[debug] 	com\sundogsoftware\spark\MinTemperaturesDataset$Temperature.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MinTemperaturesDataset$Temperature.class
+[debug] 	com\sundogsoftware\spark\MinTemperaturesDataset.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MinTemperaturesDataset.class
+[debug] 	com\sundogsoftware\spark\MostPopularSuperhero$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MostPopularSuperhero$.class
+[debug] 	com\sundogsoftware\spark\MostPopularSuperhero.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MostPopularSuperhero.class
+[debug] 	com\sundogsoftware\spark\MostPopularSuperheroDataset$$typecreator4$1.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MostPopularSuperheroDataset$$typecreator4$1.class
+[debug] 	com\sundogsoftware\spark\MostPopularSuperheroDataset$$typecreator5$1.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MostPopularSuperheroDataset$$typecreator5$1.class
+[debug] 	com\sundogsoftware\spark\MostPopularSuperheroDataset$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MostPopularSuperheroDataset$.class
+[debug] 	com\sundogsoftware\spark\MostPopularSuperheroDataset$SuperHero$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MostPopularSuperheroDataset$SuperHero$.class
+[debug] 	com\sundogsoftware\spark\MostPopularSuperheroDataset$SuperHero.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MostPopularSuperheroDataset$SuperHero.class
+[debug] 	com\sundogsoftware\spark\MostPopularSuperheroDataset$SuperHeroNames$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MostPopularSuperheroDataset$SuperHeroNames$.class
+[debug] 	com\sundogsoftware\spark\MostPopularSuperheroDataset$SuperHeroNames.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MostPopularSuperheroDataset$SuperHeroNames.class
+[debug] 	com\sundogsoftware\spark\MostPopularSuperheroDataset.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MostPopularSuperheroDataset.class
+[debug] 	com\sundogsoftware\spark\MovieRecommendationsALS$$typecreator8$1.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MovieRecommendationsALS$$typecreator8$1.class
+[debug] 	com\sundogsoftware\spark\MovieRecommendationsALS$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MovieRecommendationsALS$.class
+[debug] 	com\sundogsoftware\spark\MovieRecommendationsALS$Rating$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MovieRecommendationsALS$Rating$.class
+[debug] 	com\sundogsoftware\spark\MovieRecommendationsALS$Rating.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MovieRecommendationsALS$Rating.class
+[debug] 	com\sundogsoftware\spark\MovieRecommendationsALS.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MovieRecommendationsALS.class
+[debug] 	com\sundogsoftware\spark\MovieRecommendationsALSDataset$$typecreator4$1.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MovieRecommendationsALSDataset$$typecreator4$1.class
+[debug] 	com\sundogsoftware\spark\MovieRecommendationsALSDataset$$typecreator5$1.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MovieRecommendationsALSDataset$$typecreator5$1.class
+[debug] 	com\sundogsoftware\spark\MovieRecommendationsALSDataset$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MovieRecommendationsALSDataset$.class
+[debug] 	com\sundogsoftware\spark\MovieRecommendationsALSDataset$MoviesNames$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MovieRecommendationsALSDataset$MoviesNames$.class
+[debug] 	com\sundogsoftware\spark\MovieRecommendationsALSDataset$MoviesNames.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MovieRecommendationsALSDataset$MoviesNames.class
+[debug] 	com\sundogsoftware\spark\MovieRecommendationsALSDataset$Rating$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MovieRecommendationsALSDataset$Rating$.class
+[debug] 	com\sundogsoftware\spark\MovieRecommendationsALSDataset$Rating.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MovieRecommendationsALSDataset$Rating.class
+[debug] 	com\sundogsoftware\spark\MovieRecommendationsALSDataset.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MovieRecommendationsALSDataset.class
+[debug] 	com\sundogsoftware\spark\MovieSimilarities$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MovieSimilarities$.class
+[debug] 	com\sundogsoftware\spark\MovieSimilarities.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MovieSimilarities.class
+[debug] 	com\sundogsoftware\spark\MovieSimilarities1M$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MovieSimilarities1M$.class
+[debug] 	com\sundogsoftware\spark\MovieSimilarities1M.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MovieSimilarities1M.class
+[debug] 	com\sundogsoftware\spark\MovieSimilarities1MDataset$$typecreator4$1.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MovieSimilarities1MDataset$$typecreator4$1.class
+[debug] 	com\sundogsoftware\spark\MovieSimilarities1MDataset$$typecreator4$2.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MovieSimilarities1MDataset$$typecreator4$2.class
+[debug] 	com\sundogsoftware\spark\MovieSimilarities1MDataset$$typecreator5$1.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MovieSimilarities1MDataset$$typecreator5$1.class
+[debug] 	com\sundogsoftware\spark\MovieSimilarities1MDataset$$typecreator9$1.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MovieSimilarities1MDataset$$typecreator9$1.class
+[debug] 	com\sundogsoftware\spark\MovieSimilarities1MDataset$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MovieSimilarities1MDataset$.class
+[debug] 	com\sundogsoftware\spark\MovieSimilarities1MDataset$MoviePairs$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MovieSimilarities1MDataset$MoviePairs$.class
+[debug] 	com\sundogsoftware\spark\MovieSimilarities1MDataset$MoviePairs.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MovieSimilarities1MDataset$MoviePairs.class
+[debug] 	com\sundogsoftware\spark\MovieSimilarities1MDataset$MoviePairsSimilarity$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MovieSimilarities1MDataset$MoviePairsSimilarity$.class
+[debug] 	com\sundogsoftware\spark\MovieSimilarities1MDataset$MoviePairsSimilarity.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MovieSimilarities1MDataset$MoviePairsSimilarity.class
+[debug] 	com\sundogsoftware\spark\MovieSimilarities1MDataset$Movies$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MovieSimilarities1MDataset$Movies$.class
+[debug] 	com\sundogsoftware\spark\MovieSimilarities1MDataset$Movies.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MovieSimilarities1MDataset$Movies.class
+[debug] 	com\sundogsoftware\spark\MovieSimilarities1MDataset$MoviesNames$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MovieSimilarities1MDataset$MoviesNames$.class
+[debug] 	com\sundogsoftware\spark\MovieSimilarities1MDataset$MoviesNames.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MovieSimilarities1MDataset$MoviesNames.class
+[debug] 	com\sundogsoftware\spark\MovieSimilarities1MDataset.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MovieSimilarities1MDataset.class
+[debug] 	com\sundogsoftware\spark\MovieSimilaritiesDataset$$typecreator4$1.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MovieSimilaritiesDataset$$typecreator4$1.class
+[debug] 	com\sundogsoftware\spark\MovieSimilaritiesDataset$$typecreator4$2.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MovieSimilaritiesDataset$$typecreator4$2.class
+[debug] 	com\sundogsoftware\spark\MovieSimilaritiesDataset$$typecreator5$1.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MovieSimilaritiesDataset$$typecreator5$1.class
+[debug] 	com\sundogsoftware\spark\MovieSimilaritiesDataset$$typecreator9$1.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MovieSimilaritiesDataset$$typecreator9$1.class
+[debug] 	com\sundogsoftware\spark\MovieSimilaritiesDataset$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MovieSimilaritiesDataset$.class
+[debug] 	com\sundogsoftware\spark\MovieSimilaritiesDataset$MoviePairs$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MovieSimilaritiesDataset$MoviePairs$.class
+[debug] 	com\sundogsoftware\spark\MovieSimilaritiesDataset$MoviePairs.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MovieSimilaritiesDataset$MoviePairs.class
+[debug] 	com\sundogsoftware\spark\MovieSimilaritiesDataset$MoviePairsSimilarity$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MovieSimilaritiesDataset$MoviePairsSimilarity$.class
+[debug] 	com\sundogsoftware\spark\MovieSimilaritiesDataset$MoviePairsSimilarity.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MovieSimilaritiesDataset$MoviePairsSimilarity.class
+[debug] 	com\sundogsoftware\spark\MovieSimilaritiesDataset$Movies$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MovieSimilaritiesDataset$Movies$.class
+[debug] 	com\sundogsoftware\spark\MovieSimilaritiesDataset$Movies.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MovieSimilaritiesDataset$Movies.class
+[debug] 	com\sundogsoftware\spark\MovieSimilaritiesDataset$MoviesNames$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MovieSimilaritiesDataset$MoviesNames$.class
+[debug] 	com\sundogsoftware\spark\MovieSimilaritiesDataset$MoviesNames.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MovieSimilaritiesDataset$MoviesNames.class
+[debug] 	com\sundogsoftware\spark\MovieSimilaritiesDataset.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\MovieSimilaritiesDataset.class
+[debug] 	com\sundogsoftware\spark\PopularHashtags$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\PopularHashtags$.class
+[debug] 	com\sundogsoftware\spark\PopularHashtags.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\PopularHashtags.class
+[debug] 	com\sundogsoftware\spark\PopularMovies$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\PopularMovies$.class
+[debug] 	com\sundogsoftware\spark\PopularMovies.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\PopularMovies.class
+[debug] 	com\sundogsoftware\spark\PopularMoviesDataset$$typecreator4$1.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\PopularMoviesDataset$$typecreator4$1.class
+[debug] 	com\sundogsoftware\spark\PopularMoviesDataset$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\PopularMoviesDataset$.class
+[debug] 	com\sundogsoftware\spark\PopularMoviesDataset$Movie$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\PopularMoviesDataset$Movie$.class
+[debug] 	com\sundogsoftware\spark\PopularMoviesDataset$Movie.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\PopularMoviesDataset$Movie.class
+[debug] 	com\sundogsoftware\spark\PopularMoviesDataset.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\PopularMoviesDataset.class
+[debug] 	com\sundogsoftware\spark\PopularMoviesNicer$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\PopularMoviesNicer$.class
+[debug] 	com\sundogsoftware\spark\PopularMoviesNicer.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\PopularMoviesNicer.class
+[debug] 	com\sundogsoftware\spark\PopularMoviesNicerDataset$$typecreator4$1.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\PopularMoviesNicerDataset$$typecreator4$1.class
+[debug] 	com\sundogsoftware\spark\PopularMoviesNicerDataset$$typecreator5$1.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\PopularMoviesNicerDataset$$typecreator5$1.class
+[debug] 	com\sundogsoftware\spark\PopularMoviesNicerDataset$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\PopularMoviesNicerDataset$.class
+[debug] 	com\sundogsoftware\spark\PopularMoviesNicerDataset$Movies$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\PopularMoviesNicerDataset$Movies$.class
+[debug] 	com\sundogsoftware\spark\PopularMoviesNicerDataset$Movies.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\PopularMoviesNicerDataset$Movies.class
+[debug] 	com\sundogsoftware\spark\PopularMoviesNicerDataset.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\PopularMoviesNicerDataset.class
+[debug] 	com\sundogsoftware\spark\RatingsCounter$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\RatingsCounter$.class
+[debug] 	com\sundogsoftware\spark\RatingsCounter.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\RatingsCounter.class
+[debug] 	com\sundogsoftware\spark\RatingsCounterDataset$$typecreator4$1.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\RatingsCounterDataset$$typecreator4$1.class
+[debug] 	com\sundogsoftware\spark\RatingsCounterDataset$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\RatingsCounterDataset$.class
+[debug] 	com\sundogsoftware\spark\RatingsCounterDataset$UserRatings$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\RatingsCounterDataset$UserRatings$.class
+[debug] 	com\sundogsoftware\spark\RatingsCounterDataset$UserRatings.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\RatingsCounterDataset$UserRatings.class
+[debug] 	com\sundogsoftware\spark\RatingsCounterDataset.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\RatingsCounterDataset.class
+[debug] 	com\sundogsoftware\spark\SparkSQL$$typecreator5$1.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\SparkSQL$$typecreator5$1.class
+[debug] 	com\sundogsoftware\spark\SparkSQL$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\SparkSQL$.class
+[debug] 	com\sundogsoftware\spark\SparkSQL$Person$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\SparkSQL$Person$.class
+[debug] 	com\sundogsoftware\spark\SparkSQL$Person.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\SparkSQL$Person.class
+[debug] 	com\sundogsoftware\spark\SparkSQL.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\SparkSQL.class
+[debug] 	com\sundogsoftware\spark\SparkSQLDataset$$typecreator4$1.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\SparkSQLDataset$$typecreator4$1.class
+[debug] 	com\sundogsoftware\spark\SparkSQLDataset$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\SparkSQLDataset$.class
+[debug] 	com\sundogsoftware\spark\SparkSQLDataset$Person$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\SparkSQLDataset$Person$.class
+[debug] 	com\sundogsoftware\spark\SparkSQLDataset$Person.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\SparkSQLDataset$Person.class
+[debug] 	com\sundogsoftware\spark\SparkSQLDataset.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\SparkSQLDataset.class
+[debug] 	com\sundogsoftware\spark\TotalSpentByCustomer$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\TotalSpentByCustomer$.class
+[debug] 	com\sundogsoftware\spark\TotalSpentByCustomer.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\TotalSpentByCustomer.class
+[debug] 	com\sundogsoftware\spark\TotalSpentByCustomerDataset$$typecreator4$1.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\TotalSpentByCustomerDataset$$typecreator4$1.class
+[debug] 	com\sundogsoftware\spark\TotalSpentByCustomerDataset$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\TotalSpentByCustomerDataset$.class
+[debug] 	com\sundogsoftware\spark\TotalSpentByCustomerDataset$CustomerOrders$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\TotalSpentByCustomerDataset$CustomerOrders$.class
+[debug] 	com\sundogsoftware\spark\TotalSpentByCustomerDataset$CustomerOrders.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\TotalSpentByCustomerDataset$CustomerOrders.class
+[debug] 	com\sundogsoftware\spark\TotalSpentByCustomerDataset.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\TotalSpentByCustomerDataset.class
+[debug] 	com\sundogsoftware\spark\TotalSpentByCustomerSorted$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\TotalSpentByCustomerSorted$.class
+[debug] 	com\sundogsoftware\spark\TotalSpentByCustomerSorted.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\TotalSpentByCustomerSorted.class
+[debug] 	com\sundogsoftware\spark\TotalSpentByCustomerSortedDataset$$typecreator4$1.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\TotalSpentByCustomerSortedDataset$$typecreator4$1.class
+[debug] 	com\sundogsoftware\spark\TotalSpentByCustomerSortedDataset$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\TotalSpentByCustomerSortedDataset$.class
+[debug] 	com\sundogsoftware\spark\TotalSpentByCustomerSortedDataset$CustomerOrders$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\TotalSpentByCustomerSortedDataset$CustomerOrders$.class
+[debug] 	com\sundogsoftware\spark\TotalSpentByCustomerSortedDataset$CustomerOrders.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\TotalSpentByCustomerSortedDataset$CustomerOrders.class
+[debug] 	com\sundogsoftware\spark\TotalSpentByCustomerSortedDataset.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\TotalSpentByCustomerSortedDataset.class
+[debug] 	com\sundogsoftware\spark\WordCount$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\WordCount$.class
+[debug] 	com\sundogsoftware\spark\WordCount.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\WordCount.class
+[debug] 	com\sundogsoftware\spark\WordCountBetter$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\WordCountBetter$.class
+[debug] 	com\sundogsoftware\spark\WordCountBetter.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\WordCountBetter.class
+[debug] 	com\sundogsoftware\spark\WordCountBetterDataset$$typecreator4$1.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\WordCountBetterDataset$$typecreator4$1.class
+[debug] 	com\sundogsoftware\spark\WordCountBetterDataset$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\WordCountBetterDataset$.class
+[debug] 	com\sundogsoftware\spark\WordCountBetterDataset$Book$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\WordCountBetterDataset$Book$.class
+[debug] 	com\sundogsoftware\spark\WordCountBetterDataset$Book.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\WordCountBetterDataset$Book.class
+[debug] 	com\sundogsoftware\spark\WordCountBetterDataset.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\WordCountBetterDataset.class
+[debug] 	com\sundogsoftware\spark\WordCountBetterSorted$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\WordCountBetterSorted$.class
+[debug] 	com\sundogsoftware\spark\WordCountBetterSorted.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\WordCountBetterSorted.class
+[debug] 	com\sundogsoftware\spark\WordCountBetterSortedDataset$$typecreator4$1.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\WordCountBetterSortedDataset$$typecreator4$1.class
+[debug] 	com\sundogsoftware\spark\WordCountBetterSortedDataset$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\WordCountBetterSortedDataset$.class
+[debug] 	com\sundogsoftware\spark\WordCountBetterSortedDataset$Book$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\WordCountBetterSortedDataset$Book$.class
+[debug] 	com\sundogsoftware\spark\WordCountBetterSortedDataset$Book.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\WordCountBetterSortedDataset$Book.class
+[debug] 	com\sundogsoftware\spark\WordCountBetterSortedDataset.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\WordCountBetterSortedDataset.class
+[debug] 	com\sundogsoftware\spark\WordCountDataset$$typecreator4$1.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\WordCountDataset$$typecreator4$1.class
+[debug] 	com\sundogsoftware\spark\WordCountDataset$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\WordCountDataset$.class
+[debug] 	com\sundogsoftware\spark\WordCountDataset$Book$.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\WordCountDataset$Book$.class
+[debug] 	com\sundogsoftware\spark\WordCountDataset$Book.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\WordCountDataset$Book.class
+[debug] 	com\sundogsoftware\spark\WordCountDataset.class
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\com\sundogsoftware\spark\WordCountDataset.class
+[debug] 	META-INF
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\META-INF
+[debug] 	META-INF\MANIFEST.MF
+[debug] 	  C:\SparkScalaCourse\SparkScalaCourse\target\scala-2.12\classes\META-INF\MANIFEST.MF
+[error] java.util.zip.ZipException: duplicate entry: META-INF/MANIFEST.MF
+[error] 	at java.base/java.util.zip.ZipOutputStream.putNextEntry(ZipOutputStream.java:232)
+[error] 	at java.base/java.util.jar.JarOutputStream.putNextEntry(JarOutputStream.java:108)
+[error] 	at sbt.io.IO$.addFileEntry$1(IO.scala:684)
+[error] 	at sbt.io.IO$.$anonfun$writeZip$3(IO.scala:693)
+[error] 	at sbt.io.IO$.$anonfun$writeZip$3$adapted(IO.scala:693)
+[error] 	at scala.collection.immutable.List.foreach(List.scala:392)
+[error] 	at sbt.io.IO$.writeZip(IO.scala:693)
+[error] 	at sbt.io.IO$.$anonfun$archive$1(IO.scala:647)
+[error] 	at sbt.io.IO$.$anonfun$archive$1$adapted(IO.scala:644)
+[error] 	at sbt.io.IO$.$anonfun$withZipOutput$1(IO.scala:730)
+[error] 	at sbt.io.IO$.$anonfun$withZipOutput$1$adapted(IO.scala:718)
+[error] 	at sbt.io.Using.apply(Using.scala:27)
+[error] 	at sbt.io.IO$.withZipOutput(IO.scala:718)
+[error] 	at sbt.io.IO$.archive(IO.scala:644)
+[error] 	at sbt.io.IO$.jar(IO.scala:619)
+[error] 	at sbt.Package$.makeJar(Package.scala:164)
+[error] 	at sbt.Package$.$anonfun$apply$4(Package.scala:99)
+[error] 	at sbt.Package$.$anonfun$apply$4$adapted(Package.scala:97)
+[error] 	at sbt.util.Tracked$.$anonfun$outputChanged$1(Tracked.scala:102)
+[error] 	at sbt.Package$.apply(Package.scala:108)
+[error] 	at sbt.Defaults$.$anonfun$packageTask$1(Defaults.scala:1407)
+[error] 	at scala.Function1.$anonfun$compose$1(Function1.scala:49)
+[error] 	at sbt.internal.util.$tilde$greater.$anonfun$$u2219$1(TypeFunctions.scala:62)
+[error] 	at sbt.std.Transform$$anon$4.work(Transform.scala:67)
+[error] 	at sbt.Execute.$anonfun$submit$2(Execute.scala:281)
+[error] 	at sbt.internal.util.ErrorHandling$.wideConvert(ErrorHandling.scala:19)
+[error] 	at sbt.Execute.work(Execute.scala:290)
+[error] 	at sbt.Execute.$anonfun$submit$1(Execute.scala:281)
+[error] 	at sbt.ConcurrentRestrictions$$anon$4.$anonfun$submitValid$1(ConcurrentRestrictions.scala:178)
+[error] 	at sbt.CompletionService$$anon$2.call(CompletionService.scala:37)
+[error] 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+[error] 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+[error] 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+[error] 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+[error] 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+[error] 	at java.base/java.lang.Thread.run(Thread.java:832)
+[error] (Compile / packageBin) java.util.zip.ZipException: duplicate entry: META-INF/MANIFEST.MF
